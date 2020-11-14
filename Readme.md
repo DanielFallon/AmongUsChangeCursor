@@ -4,7 +4,7 @@ What does it do? Let's you set your cursor while playing among us.
 
 ## How do I use it?
 
-1. Download the zip file from Releases
+1. Download the zip file from [Releases](https://github.com/DanielFallon/AmongUsChangeCursor/releases/)
 1. Extract the zip file to a folder
 1. Run ChangeCursor.exe
 1. Profit.
